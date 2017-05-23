@@ -1,0 +1,16 @@
+PODS:
+  - MyPro (0.1.0)
+
+DEPENDENCIES:
+  - MyPro (from `../`)
+
+EXTERNAL SOURCES:
+  MyPro:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MyPro: 932b70d050cd9b62bbd6106fc5f3941cd41847de
+
+PODFILE CHECKSUM: 79ee83e618a1707998ad410a8c89c802ef7d812e
+
+COCOAPODS: 1.2.1

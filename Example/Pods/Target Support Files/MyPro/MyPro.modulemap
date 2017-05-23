@@ -1,0 +1,6 @@
+framework module MyPro {
+  umbrella header "MyPro-umbrella.h"
+
+  export *
+  module * { export * }
+}
